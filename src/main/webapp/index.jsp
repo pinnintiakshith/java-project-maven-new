@@ -52,7 +52,7 @@
     <!-- ------------------ Video Card ------------------ -->
     <div class="video-card-container">
         <div class="video-card">
-            <img src="./assets/img/disney.png" class="video-card-image" alt="">
+            <img src="./assets/img/disney.png" class="video-card-mage" alt="">
             <video src="./assets/video/disney.mp4" mute loop class="card-video"></video>
         </div>
         <div class="video-card">
